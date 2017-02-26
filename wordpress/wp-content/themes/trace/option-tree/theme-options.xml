@@ -1,0 +1,1023 @@
+<?xml version="1.0"?>
+<wp_aversis_option_tree>
+  <row>
+    <id>1</id>
+    <item_id>general_default</item_id>
+    <item_title>&amp;lt;div id=ot_design&amp;gt;Design&amp;lt;/div&amp;gt;</item_title>
+    <item_desc></item_desc>
+    <item_type>heading</item_type>
+    <item_options></item_options>
+    <item_sort>1</item_sort>
+  </row>
+  <row>
+    <id>2</id>
+    <item_id>aversis_main_color</item_id>
+    <item_title>Main Color</item_title>
+    <item_desc>The main color throughout the theme.</item_desc>
+    <item_type>colorpicker</item_type>
+    <item_options></item_options>
+    <item_sort>2</item_sort>
+  </row>
+  <row>
+    <id>211</id>
+    <item_id>aversis_reset_main_color</item_id>
+    <item_title>Reset Main Color to:</item_title>
+    <item_desc>Reset the main color field above to one of this colors.</item_desc>
+    <item_type>radio</item_type>
+    <item_options>blue,red,orange,green,brown</item_options>
+    <item_sort>3</item_sort>
+  </row>
+  <row>
+    <id>165</id>
+    <item_id>aversis_body_background_color</item_id>
+    <item_title>Background Color</item_title>
+    <item_desc>The Background Color of the body surrounding the content column</item_desc>
+    <item_type>colorpicker</item_type>
+    <item_options></item_options>
+    <item_sort>4</item_sort>
+  </row>
+  <row>
+    <id>8</id>
+    <item_id>aversis_body_background_image</item_id>
+    <item_title>Default Background Image</item_title>
+    <item_desc>Background image of the page surrounding the content column</item_desc>
+    <item_type>upload</item_type>
+    <item_options></item_options>
+    <item_sort>5</item_sort>
+  </row>
+  <row>
+    <id>164</id>
+    <item_id>aversis_background_image_style</item_id>
+    <item_title>Default Background Image Style</item_title>
+    <item_desc>You want your image tiled(small pic repeated), stretched(the picture will be stretched to the edges of the window ignoring the aspect ratio) or fitted(the picture size will be set to fill the screen respecting the aspect ratio, could be you do not see the whole picture depending on window dimensions)?</item_desc>
+    <item_type>radio</item_type>
+    <item_options>tiled,stretch,fit-outside,fit-inside</item_options>
+    <item_sort>6</item_sort>
+  </row>
+  <row>
+    <id>30</id>
+    <item_id>aversis_favicon</item_id>
+    <item_title>Shortcut Icon</item_title>
+    <item_desc>Shortcut Icon (Favicon) of the Site, please use png format</item_desc>
+    <item_type>upload</item_type>
+    <item_options></item_options>
+    <item_sort>7</item_sort>
+  </row>
+  <row>
+    <id>210</id>
+    <item_id>aversis_favicon57</item_id>
+    <item_title>Mobile Shortcut Icon (57x57px)</item_title>
+    <item_desc>Icon to create a nice Shortcut Icon on certain mobile devices</item_desc>
+    <item_type>upload</item_type>
+    <item_options></item_options>
+    <item_sort>8</item_sort>
+  </row>
+  <row>
+    <id>173</id>
+    <item_id>aversis_favicon72</item_id>
+    <item_title>Mobile Shortcut Icon (72x72px)</item_title>
+    <item_desc>Icon to create a nice Shortcut Icon on certain mobile devices</item_desc>
+    <item_type>upload</item_type>
+    <item_options></item_options>
+    <item_sort>9</item_sort>
+  </row>
+  <row>
+    <id>174</id>
+    <item_id>aversis_favicon114</item_id>
+    <item_title>Mobile Shortcut Icon (114x114px)</item_title>
+    <item_desc>Icon to create a nice Shortcut Icon on certain mobile devices</item_desc>
+    <item_type>upload</item_type>
+    <item_options></item_options>
+    <item_sort>10</item_sort>
+  </row>
+  <row>
+    <id>13</id>
+    <item_id>typography</item_id>
+    <item_title>&amp;lt;div id=ot_typography&amp;gt;Typography&amp;lt;/div&amp;gt;</item_title>
+    <item_desc></item_desc>
+    <item_type>heading</item_type>
+    <item_options></item_options>
+    <item_sort>11</item_sort>
+  </row>
+  <row>
+    <id>17</id>
+    <item_id>aversis_main_font_size</item_id>
+    <item_title>Main Text Size</item_title>
+    <item_desc>Size of the content text</item_desc>
+    <item_type>measurement</item_type>
+    <item_options></item_options>
+    <item_sort>12</item_sort>
+  </row>
+  <row>
+    <id>14</id>
+    <item_id>aversis_google_font_web_directory</item_id>
+    <item_title>Google Font Web Directory</item_title>
+    <item_desc>You can select the headline font from the &amp;quot;Google Web Font&amp;quot; directory. Click on the &amp;quot;Quick Use&amp;quot; link to get the needed info.&amp;lt;br&amp;gt;&amp;lt;a href=&amp;quot;http://www.google.com/webfonts#ChoosePlace:select&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;http://www.google.com/webfonts#ChoosePlace:select&amp;lt;/a&amp;gt;</item_desc>
+    <item_type>textblock</item_type>
+    <item_options></item_options>
+    <item_sort>13</item_sort>
+  </row>
+  <row>
+    <id>15</id>
+    <item_id>aversis_main_google_font</item_id>
+    <item_title>Headline Google Font</item_title>
+    <item_desc>Input the google font - Example: http://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>14</item_sort>
+  </row>
+  <row>
+    <id>16</id>
+    <item_id>aversis_main_google_font_family</item_id>
+    <item_title>Headline Google Font Family</item_title>
+    <item_desc>Font Family from the Google Font - Example: font-family: &amp;#039;PT Sans Narrow&amp;#039;, sans-serif;</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>15</item_sort>
+  </row>
+  <row>
+    <id>18</id>
+    <item_id>aversis_h1_font_size</item_id>
+    <item_title>H1 Font Size</item_title>
+    <item_desc>H1 Font Size</item_desc>
+    <item_type>measurement</item_type>
+    <item_options></item_options>
+    <item_sort>16</item_sort>
+  </row>
+  <row>
+    <id>19</id>
+    <item_id>aversis_h2_font_size</item_id>
+    <item_title>H2 Font Size</item_title>
+    <item_desc>H2 Font Size</item_desc>
+    <item_type>measurement</item_type>
+    <item_options></item_options>
+    <item_sort>17</item_sort>
+  </row>
+  <row>
+    <id>20</id>
+    <item_id>aversis_h3_font_size</item_id>
+    <item_title>H3 Font Size</item_title>
+    <item_desc>H3 Font Size</item_desc>
+    <item_type>measurement</item_type>
+    <item_options></item_options>
+    <item_sort>18</item_sort>
+  </row>
+  <row>
+    <id>21</id>
+    <item_id>aversis_h4_font_size</item_id>
+    <item_title>H4 Font Size</item_title>
+    <item_desc>H4 Font Size</item_desc>
+    <item_type>measurement</item_type>
+    <item_options></item_options>
+    <item_sort>19</item_sort>
+  </row>
+  <row>
+    <id>22</id>
+    <item_id>aversis_h5_font_size</item_id>
+    <item_title>H5 Font Size</item_title>
+    <item_desc>H5 Font Size</item_desc>
+    <item_type>measurement</item_type>
+    <item_options></item_options>
+    <item_sort>20</item_sort>
+  </row>
+  <row>
+    <id>23</id>
+    <item_id>aversis_h6_font_size</item_id>
+    <item_title>H6 Font Size</item_title>
+    <item_desc>H6 Font Size</item_desc>
+    <item_type>measurement</item_type>
+    <item_options></item_options>
+    <item_sort>21</item_sort>
+  </row>
+  <row>
+    <id>24</id>
+    <item_id>seo</item_id>
+    <item_title>&amp;lt;div id=ot_seo&amp;gt;SEO &amp;amp; Analytics&amp;lt;/div&amp;gt;</item_title>
+    <item_desc></item_desc>
+    <item_type>heading</item_type>
+    <item_options></item_options>
+    <item_sort>22</item_sort>
+  </row>
+  <row>
+    <id>25</id>
+    <item_id>aversis_seo_active</item_id>
+    <item_title>Global SEO Enhancement active?</item_title>
+    <item_desc>Enable the extra global SEO Enhancement (global Meta field description and keywords)?</item_desc>
+    <item_type>checkbox</item_type>
+    <item_options>on</item_options>
+    <item_sort>23</item_sort>
+  </row>
+  <row>
+    <id>170</id>
+    <item_id>div_global_seo_begin</item_id>
+    <item_title>div global_seo_begin</item_title>
+    <item_desc>&amp;lt;div id=aversis_global_seo_begin_div&amp;gt;</item_desc>
+    <item_type>textblock</item_type>
+    <item_options></item_options>
+    <item_sort>24</item_sort>
+  </row>
+  <row>
+    <id>26</id>
+    <item_id>aversis_seo_global_description</item_id>
+    <item_title>Global Meta Description?</item_title>
+    <item_desc>Global description of your Website to be read by Search Engines</item_desc>
+    <item_type>textarea</item_type>
+    <item_options>8</item_options>
+    <item_sort>25</item_sort>
+  </row>
+  <row>
+    <id>27</id>
+    <item_id>aversis_seo_global_tags</item_id>
+    <item_title>Global Meta Keywords?</item_title>
+    <item_desc>Global keywords for the meta fields to be read by Search Engines</item_desc>
+    <item_type>textarea</item_type>
+    <item_options>5</item_options>
+    <item_sort>26</item_sort>
+  </row>
+  <row>
+    <id>171</id>
+    <item_id>div_global_seo_end</item_id>
+    <item_title>div global_seo_end</item_title>
+    <item_desc>&amp;lt;/div&amp;gt;</item_desc>
+    <item_type>textblock</item_type>
+    <item_options></item_options>
+    <item_sort>27</item_sort>
+  </row>
+  <row>
+    <id>28</id>
+    <item_id>aversis_seo_page_active</item_id>
+    <item_title>Use Page/Posts Content and Tags to enhance SEO?</item_title>
+    <item_desc>Use an extra amount of Info grabbed from the page or post data in the corresponding Meta Fields to enhance the SEO factor?</item_desc>
+    <item_type>checkbox</item_type>
+    <item_options>on</item_options>
+    <item_sort>28</item_sort>
+  </row>
+  <row>
+    <id>177</id>
+    <item_id>aversis_analytics_code</item_id>
+    <item_title>Google Analytics Code</item_title>
+    <item_desc>Copy your Google Analytics Code in here, it will be added to the footer of every page/post</item_desc>
+    <item_type>textarea</item_type>
+    <item_options>8</item_options>
+    <item_sort>29</item_sort>
+  </row>
+  <row>
+    <id>29</id>
+    <item_id>header_header</item_id>
+    <item_title>&amp;lt;div id=ot_header&amp;gt;Header&amp;lt;/div&amp;gt;</item_title>
+    <item_desc></item_desc>
+    <item_type>heading</item_type>
+    <item_options></item_options>
+    <item_sort>30</item_sort>
+  </row>
+  <row>
+    <id>32</id>
+    <item_id>aversis_logo_src</item_id>
+    <item_title>Logo</item_title>
+    <item_desc>Logo image</item_desc>
+    <item_type>upload</item_type>
+    <item_options></item_options>
+    <item_sort>31</item_sort>
+  </row>
+  <row>
+    <id>36</id>
+    <item_id>aversis_logo_width</item_id>
+    <item_title>Logo Width (px)</item_title>
+    <item_desc>Width of the Logo in the headline</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>32</item_sort>
+  </row>
+  <row>
+    <id>33</id>
+    <item_id>aversis_logo_height</item_id>
+    <item_title>Logo Height (px)</item_title>
+    <item_desc>Logo Height in px</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>33</item_sort>
+  </row>
+  <row>
+    <id>35</id>
+    <item_id>aversis_logo_tagline</item_id>
+    <item_title>Logo Tagline</item_title>
+    <item_desc>The logo tagline text (leave blank if not used)</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>34</item_sort>
+  </row>
+  <row>
+    <id>39</id>
+    <item_id>aversis_header_contactline</item_id>
+    <item_title>Contact Line</item_title>
+    <item_desc>Content of the contact line left to the search box (leave blank if not used)</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>35</item_sort>
+  </row>
+  <row>
+    <id>37</id>
+    <item_id>aversis_search_box</item_id>
+    <item_title>Display Search Box?</item_title>
+    <item_desc>Display the search box in the header (default text can be maintained via localization(see documentation))</item_desc>
+    <item_type>checkbox</item_type>
+    <item_options>on</item_options>
+    <item_sort>36</item_sort>
+  </row>
+  <row>
+    <id>166</id>
+    <item_id>aversis_header_social_text_line</item_id>
+    <item_title>Social Text Line</item_title>
+    <item_desc>The text line left to the socials (leave blank if not used)</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>37</item_sort>
+  </row>
+  <row>
+    <id>53</id>
+    <item_id>aversis_header_socialblock</item_id>
+    <item_title>Display Social Icons?</item_title>
+    <item_desc>Show the Socialblock in the menubar (socials can be maintained ff.)</item_desc>
+    <item_type>checkbox</item_type>
+    <item_options>on</item_options>
+    <item_sort>38</item_sort>
+  </row>
+  <row>
+    <id>168</id>
+    <item_id>div_social_icons_begin</item_id>
+    <item_title>div social_icons_begin</item_title>
+    <item_desc>&amp;lt;div id=aversis_social_icons_div&amp;gt;</item_desc>
+    <item_type>textblock</item_type>
+    <item_options></item_options>
+    <item_sort>39</item_sort>
+  </row>
+  <row>
+    <id>167</id>
+    <item_id>aversis_social_icons</item_id>
+    <item_title>Social Icons</item_title>
+    <item_desc>Add/Edit/Sort your social icons here (a set of icon PNGs is in the downloaded folder)</item_desc>
+    <item_type>slider</item_type>
+    <item_options></item_options>
+    <item_sort>40</item_sort>
+  </row>
+  <row>
+    <id>169</id>
+    <item_id>div_social_icons_end</item_id>
+    <item_title>div social_icons_end</item_title>
+    <item_desc>&amp;lt;/div&amp;gt;</item_desc>
+    <item_type>textblock</item_type>
+    <item_options></item_options>
+    <item_sort>41</item_sort>
+  </row>
+  <row>
+    <id>42</id>
+    <item_id>footer</item_id>
+    <item_title>&amp;lt;div id=ot_footer&amp;gt;Footer&amp;lt;/div&amp;gt;</item_title>
+    <item_desc></item_desc>
+    <item_type>heading</item_type>
+    <item_options></item_options>
+    <item_sort>42</item_sort>
+  </row>
+  <row>
+    <id>44</id>
+    <item_id>aversis_footer_active</item_id>
+    <item_title>Footer active?</item_title>
+    <item_desc>Display the Footer Widget area?</item_desc>
+    <item_type>checkbox</item_type>
+    <item_options>on</item_options>
+    <item_sort>43</item_sort>
+  </row>
+  <row>
+    <id>45</id>
+    <item_id>aversis_subfooter_active</item_id>
+    <item_title>Subfooter active?</item_title>
+    <item_desc>Display the Subfooter Area ?</item_desc>
+    <item_type>checkbox</item_type>
+    <item_options>on</item_options>
+    <item_sort>44</item_sort>
+  </row>
+  <row>
+    <id>175</id>
+    <item_id>div_subfooter_begin</item_id>
+    <item_title>div subfooter_begin</item_title>
+    <item_desc>&amp;lt;div id=aversis_subfooter_div&amp;gt;</item_desc>
+    <item_type>textblock</item_type>
+    <item_options></item_options>
+    <item_sort>45</item_sort>
+  </row>
+  <row>
+    <id>46</id>
+    <item_id>aversis_subfooter_content</item_id>
+    <item_title>Subfooter Content</item_title>
+    <item_desc>Content of the Subfooter area</item_desc>
+    <item_type>textarea</item_type>
+    <item_options>8</item_options>
+    <item_sort>46</item_sort>
+  </row>
+  <row>
+    <id>176</id>
+    <item_id>div_subfooter_end</item_id>
+    <item_title>div subfooter_end</item_title>
+    <item_desc>&amp;lt;/div&amp;gt;</item_desc>
+    <item_type>textblock</item_type>
+    <item_options></item_options>
+    <item_sort>47</item_sort>
+  </row>
+  <row>
+    <id>183</id>
+    <item_id>ot_contact</item_id>
+    <item_title>&amp;lt;div id=ot_contact&amp;gt;Contact&amp;lt;/div&amp;gt;</item_title>
+    <item_desc></item_desc>
+    <item_type>heading</item_type>
+    <item_options></item_options>
+    <item_sort>48</item_sort>
+  </row>
+  <row>
+    <id>184</id>
+    <item_id>aversis_contact_sendto</item_id>
+    <item_title>Mail Send To</item_title>
+    <item_desc>Receiving Email Address for Contact Mails</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>49</item_sort>
+  </row>
+  <row>
+    <id>193</id>
+    <item_id>aversis_contact_google_map_active</item_id>
+    <item_title>Display Google Map?</item_title>
+    <item_desc>Show  a google map on top of the Contact page?</item_desc>
+    <item_type>checkbox</item_type>
+    <item_options>on</item_options>
+    <item_sort>50</item_sort>
+  </row>
+  <row>
+    <id>161</id>
+    <item_id>div_google_map_begin</item_id>
+    <item_title>div google_map_begin</item_title>
+    <item_desc>&amp;lt;div id=aversis_google_map_div&amp;gt;</item_desc>
+    <item_type>textblock</item_type>
+    <item_options></item_options>
+    <item_sort>51</item_sort>
+  </row>
+  <row>
+    <id>185</id>
+    <item_id>aversis_contact_gmap_address</item_id>
+    <item_title>Google Map Search</item_title>
+    <item_desc>The Google Map search that describes the location best</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>52</item_sort>
+  </row>
+  <row>
+    <id>186</id>
+    <item_id>aversis_contact_gmap_zoom</item_id>
+    <item_title>Google Map Zoom Factor</item_title>
+    <item_desc>Zoom Factor to show the Google Map</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>53</item_sort>
+  </row>
+  <row>
+    <id>187</id>
+    <item_id>aversis_contact_gmap_box_html</item_id>
+    <item_title>Google Map HTML Box</item_title>
+    <item_desc>HTML to print in the Google Map Info Box (click on marker icon)</item_desc>
+    <item_type>textarea</item_type>
+    <item_options>8</item_options>
+    <item_sort>54</item_sort>
+  </row>
+  <row>
+    <id>162</id>
+    <item_id>div_google_map_end</item_id>
+    <item_title>div google_map_end</item_title>
+    <item_desc>&amp;lt;/div&amp;gt;</item_desc>
+    <item_type>textblock</item_type>
+    <item_options></item_options>
+    <item_sort>55</item_sort>
+  </row>
+  <row>
+    <id>95</id>
+    <item_id>blog</item_id>
+    <item_title>&amp;lt;div id=ot_blog&amp;gt;Blog&amp;lt;/div&amp;gt;</item_title>
+    <item_desc></item_desc>
+    <item_type>heading</item_type>
+    <item_options></item_options>
+    <item_sort>56</item_sort>
+  </row>
+  <row>
+    <id>205</id>
+    <item_id>aversis_blog_cuts</item_id>
+    <item_title>Image Cut Overview</item_title>
+    <item_desc>Cut the Images in the Portfolio Overview to a certain height?</item_desc>
+    <item_type>checkbox</item_type>
+    <item_options>on</item_options>
+    <item_sort>57</item_sort>
+  </row>
+  <row>
+    <id>206</id>
+    <item_id>div_blog_image_cut_begin</item_id>
+    <item_title>div blog_image_cut_begin</item_title>
+    <item_desc>&amp;lt;div id=aversis_blog_image_cut_div&amp;gt;</item_desc>
+    <item_type>textblock</item_type>
+    <item_options></item_options>
+    <item_sort>58</item_sort>
+  </row>
+  <row>
+    <id>207</id>
+    <item_id>aversis_blog_cuts_height</item_id>
+    <item_title>Image Cut Height (px)</item_title>
+    <item_desc>The height in maximal view.</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>59</item_sort>
+  </row>
+  <row>
+    <id>208</id>
+    <item_id>div_blog_image_cut_end</item_id>
+    <item_title>div blog_image_cut_end</item_title>
+    <item_desc>&amp;lt;/div&amp;gt;</item_desc>
+    <item_type>textblock</item_type>
+    <item_options></item_options>
+    <item_sort>60</item_sort>
+  </row>
+  <row>
+    <id>99</id>
+    <item_id>post_info_line</item_id>
+    <item_title>Post Info Line</item_title>
+    <item_desc>&amp;lt;h1 style=&amp;quot;color: #21759B;&amp;quot;&amp;gt;Post Info Line&amp;lt;/h1&amp;gt;</item_desc>
+    <item_type>textblock</item_type>
+    <item_options></item_options>
+    <item_sort>61</item_sort>
+  </row>
+  <row>
+    <id>98</id>
+    <item_id>aversis_blog_postinfo_active</item_id>
+    <item_title>Show Post Info Line?</item_title>
+    <item_desc>Display the Post Info Line? (This setting overrules all other Info Line settings below if unchecked).</item_desc>
+    <item_type>checkbox</item_type>
+    <item_options>on</item_options>
+    <item_sort>62</item_sort>
+  </row>
+  <row>
+    <id>194</id>
+    <item_id>div_blog_postinfo_begin</item_id>
+    <item_title>div blog_postinfo_begin</item_title>
+    <item_desc>&amp;lt;div id=aversis_blog_postinfo_begin_div&amp;gt;</item_desc>
+    <item_type>textblock</item_type>
+    <item_options></item_options>
+    <item_sort>63</item_sort>
+  </row>
+  <row>
+    <id>100</id>
+    <item_id>aversis_blog_postinfo_date_active</item_id>
+    <item_title>Show Postdate in Info Line?</item_title>
+    <item_desc>Display the Post Date?</item_desc>
+    <item_type>checkbox</item_type>
+    <item_options>on</item_options>
+    <item_sort>64</item_sort>
+  </row>
+  <row>
+    <id>101</id>
+    <item_id>aversis_blog_postinfo_author_active</item_id>
+    <item_title>Show Author in Info Line?</item_title>
+    <item_desc>Display the Post Author?</item_desc>
+    <item_type>checkbox</item_type>
+    <item_options>on</item_options>
+    <item_sort>65</item_sort>
+  </row>
+  <row>
+    <id>102</id>
+    <item_id>aversis_blog_postinfo_categories_active</item_id>
+    <item_title>Show Categories in Info Line?</item_title>
+    <item_desc>Display Post Categories?</item_desc>
+    <item_type>checkbox</item_type>
+    <item_options>on</item_options>
+    <item_sort>66</item_sort>
+  </row>
+  <row>
+    <id>103</id>
+    <item_id>aversis_blog_postinfo_comments_active</item_id>
+    <item_title>Show Comments in Info Line?</item_title>
+    <item_desc>Display Post Comment Count?</item_desc>
+    <item_type>checkbox</item_type>
+    <item_options>on</item_options>
+    <item_sort>67</item_sort>
+  </row>
+  <row>
+    <id>195</id>
+    <item_id>div_blog_post_info_end</item_id>
+    <item_title>div blog_post_info_end</item_title>
+    <item_desc>&amp;lt;/div&amp;gt;</item_desc>
+    <item_type>textblock</item_type>
+    <item_options></item_options>
+    <item_sort>68</item_sort>
+  </row>
+  <row>
+    <id>104</id>
+    <item_id>aversis_blog_tags_active</item_id>
+    <item_title>Show Tags under the content?</item_title>
+    <item_desc>Display the line under the content that holds the tags?</item_desc>
+    <item_type>checkbox</item_type>
+    <item_options>on</item_options>
+    <item_sort>69</item_sort>
+  </row>
+  <row>
+    <id>105</id>
+    <item_id>aversis_blog_overview_excerpt</item_id>
+    <item_title>Excerpt Length (Words)</item_title>
+    <item_desc>How many Words of your Blog Post Content should be shown here in the Overview and the Lightbox?</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>70</item_sort>
+  </row>
+  <row>
+    <id>178</id>
+    <item_id>aversis_blog_related_posts_active</item_id>
+    <item_title>Show Related Posts?</item_title>
+    <item_desc>Do you want to display related posts in the Single View?</item_desc>
+    <item_type>checkbox</item_type>
+    <item_options>on</item_options>
+    <item_sort>71</item_sort>
+  </row>
+  <row>
+    <id>179</id>
+    <item_id>aversis_blog_related_posts_number</item_id>
+    <item_title>Max. Number of related Posts</item_title>
+    <item_desc>How many Related Posts maximum?</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>72</item_sort>
+  </row>
+  <row>
+    <id>107</id>
+    <item_id>social_sharing</item_id>
+    <item_title>Social Sharing</item_title>
+    <item_desc>&amp;lt;h1 style=&amp;quot;color: #21759B;&amp;quot;&amp;gt;Social Sharing&amp;lt;/h1&amp;gt;</item_desc>
+    <item_type>textblock</item_type>
+    <item_options></item_options>
+    <item_sort>73</item_sort>
+  </row>
+  <row>
+    <id>109</id>
+    <item_id>aversis_blog_overview_socials_active</item_id>
+    <item_title>Show Social Sharing?</item_title>
+    <item_desc>Show the Social Sharing Block? (This overrules the 3 following settings if unchecked)</item_desc>
+    <item_type>checkbox</item_type>
+    <item_options>on</item_options>
+    <item_sort>74</item_sort>
+  </row>
+  <row>
+    <id>196</id>
+    <item_id>div_blog_socials_begin</item_id>
+    <item_title>div blog_socials_begin</item_title>
+    <item_desc>&amp;lt;div id=aversis_blog_socials_div&amp;gt;</item_desc>
+    <item_type>textblock</item_type>
+    <item_options></item_options>
+    <item_sort>75</item_sort>
+  </row>
+  <row>
+    <id>110</id>
+    <item_id>aversis_blog_overview_socials_twitter</item_id>
+    <item_title>Show Twitter Sharing?</item_title>
+    <item_desc>Display Twitter Button?</item_desc>
+    <item_type>checkbox</item_type>
+    <item_options>on</item_options>
+    <item_sort>76</item_sort>
+  </row>
+  <row>
+    <id>111</id>
+    <item_id>aversis_blog_overview_socials_google</item_id>
+    <item_title>Show Google+ Sharing?</item_title>
+    <item_desc>Show Google+ Button?</item_desc>
+    <item_type>checkbox</item_type>
+    <item_options>on</item_options>
+    <item_sort>77</item_sort>
+  </row>
+  <row>
+    <id>112</id>
+    <item_id>aversis_blog_overview_socials_pinterest</item_id>
+    <item_title>Show Pinterest Sharing?</item_title>
+    <item_desc>Display Pinterest button?</item_desc>
+    <item_type>checkbox</item_type>
+    <item_options>on</item_options>
+    <item_sort>78</item_sort>
+  </row>
+  <row>
+    <id>113</id>
+    <item_id>aversis_blog_overview_socials_facebook</item_id>
+    <item_title>Show Facebook Sharing?</item_title>
+    <item_desc>Show Facebook Button?</item_desc>
+    <item_type>checkbox</item_type>
+    <item_options>on</item_options>
+    <item_sort>79</item_sort>
+  </row>
+  <row>
+    <id>197</id>
+    <item_id>div_blog_socials_end</item_id>
+    <item_title>div blog_socials_end</item_title>
+    <item_desc>&amp;lt;/div&amp;gt;</item_desc>
+    <item_type>textblock</item_type>
+    <item_options></item_options>
+    <item_sort>80</item_sort>
+  </row>
+  <row>
+    <id>124</id>
+    <item_id>portfolio</item_id>
+    <item_title>&amp;lt;div id=ot_portfolio&amp;gt;Portfolio&amp;lt;/div&amp;gt;</item_title>
+    <item_desc></item_desc>
+    <item_type>heading</item_type>
+    <item_options></item_options>
+    <item_sort>81</item_sort>
+  </row>
+  <row>
+    <id>191</id>
+    <item_id>aversis_portfolio_cuts</item_id>
+    <item_title>Image Cut Overview</item_title>
+    <item_desc>Cut the Images in the Portfolio Overview to a certain height?</item_desc>
+    <item_type>checkbox</item_type>
+    <item_options>on</item_options>
+    <item_sort>82</item_sort>
+  </row>
+  <row>
+    <id>203</id>
+    <item_id>div_portfolio_image_cut_begin</item_id>
+    <item_title>div portfolio_image_cut_begin</item_title>
+    <item_desc>&amp;lt;div id=aversis_portfolio_image_cut_div&amp;gt;</item_desc>
+    <item_type>textblock</item_type>
+    <item_options></item_options>
+    <item_sort>83</item_sort>
+  </row>
+  <row>
+    <id>192</id>
+    <item_id>aversis_portfolio_cuts_height</item_id>
+    <item_title>Image Cut Height (px)</item_title>
+    <item_desc>The height in maximal view.</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>84</item_sort>
+  </row>
+  <row>
+    <id>204</id>
+    <item_id>div_portfolio_image_cut_end</item_id>
+    <item_title>div portfolio_image_cut_end</item_title>
+    <item_desc>&amp;lt;/div&amp;gt;</item_desc>
+    <item_type>textblock</item_type>
+    <item_options></item_options>
+    <item_sort>85</item_sort>
+  </row>
+  <row>
+    <id>202</id>
+    <item_id>aversis_portfolio_posts_per_page</item_id>
+    <item_title>Blogview Projects on Page</item_title>
+    <item_desc>How many Projects do you want to display on the Portfolio Page in Blog Style? (Normal Portfolio Page displays all)</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>86</item_sort>
+  </row>
+  <row>
+    <id>126</id>
+    <item_id>project_info_line</item_id>
+    <item_title>Project Info Line</item_title>
+    <item_desc>&amp;lt;h1 style=&amp;quot;color: #21759B;&amp;quot;&amp;gt;Project Info Line&amp;lt;/h1&amp;gt;</item_desc>
+    <item_type>textblock</item_type>
+    <item_options></item_options>
+    <item_sort>87</item_sort>
+  </row>
+  <row>
+    <id>127</id>
+    <item_id>aversis_portfolio_postinfo_active</item_id>
+    <item_title>Show Project Info Line?</item_title>
+    <item_desc>Display the Project Info Line? (This setting overrules all other Info Line settings below if unchecked).</item_desc>
+    <item_type>checkbox</item_type>
+    <item_options>on</item_options>
+    <item_sort>88</item_sort>
+  </row>
+  <row>
+    <id>198</id>
+    <item_id>div_portfolio_postinfo_begin</item_id>
+    <item_title>div portfolio_postinfo_begin</item_title>
+    <item_desc>&amp;lt;div id=&amp;quot;aversis_portfolio_postinfo_begin&amp;quot;&amp;gt;</item_desc>
+    <item_type>textblock</item_type>
+    <item_options></item_options>
+    <item_sort>89</item_sort>
+  </row>
+  <row>
+    <id>128</id>
+    <item_id>aversis_portfolio_postinfo_date_active</item_id>
+    <item_title>Show Postdate in Info Line?</item_title>
+    <item_desc>Display the Post Date?</item_desc>
+    <item_type>checkbox</item_type>
+    <item_options>on</item_options>
+    <item_sort>90</item_sort>
+  </row>
+  <row>
+    <id>129</id>
+    <item_id>aversis_portfolio_postinfo_author_active</item_id>
+    <item_title>Show Author in Info Line?</item_title>
+    <item_desc>Display the Project Author?</item_desc>
+    <item_type>checkbox</item_type>
+    <item_options>on</item_options>
+    <item_sort>91</item_sort>
+  </row>
+  <row>
+    <id>130</id>
+    <item_id>aversis_portfolio_postinfo_categories_active</item_id>
+    <item_title>Show Categories in Info Line?</item_title>
+    <item_desc>Display Project Categories?</item_desc>
+    <item_type>checkbox</item_type>
+    <item_options>on</item_options>
+    <item_sort>92</item_sort>
+  </row>
+  <row>
+    <id>131</id>
+    <item_id>aversis_portfolio_postinfo_comments_active</item_id>
+    <item_title>Show Comments in Info Line?</item_title>
+    <item_desc>Display Project Comment Count?</item_desc>
+    <item_type>checkbox</item_type>
+    <item_options>on</item_options>
+    <item_sort>93</item_sort>
+  </row>
+  <row>
+    <id>199</id>
+    <item_id>div_portfolio_postinfo_end</item_id>
+    <item_title>div portfolio_postinfo_end</item_title>
+    <item_desc>&amp;lt;/div&amp;gt;</item_desc>
+    <item_type>textblock</item_type>
+    <item_options></item_options>
+    <item_sort>94</item_sort>
+  </row>
+  <row>
+    <id>133</id>
+    <item_id>aversis_portfolio_overview_excerpt</item_id>
+    <item_title>Excerpt Length (Words)</item_title>
+    <item_desc>How many Words of your Portfolio Project Content should be shown here in the Overview and the Lightbox?</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>95</item_sort>
+  </row>
+  <row>
+    <id>181</id>
+    <item_id>aversis_portfolio_category_filter</item_id>
+    <item_title>Show Category Filter?</item_title>
+    <item_desc>Display the portfolio category filter?</item_desc>
+    <item_type>checkbox</item_type>
+    <item_options>on</item_options>
+    <item_sort>96</item_sort>
+  </row>
+  <row>
+    <id>182</id>
+    <item_id>aversis_portfolio_sorting</item_id>
+    <item_title>Show Sorting Options?</item_title>
+    <item_desc>Display the two Select boxes to sort the portfolio items?</item_desc>
+    <item_type>checkbox</item_type>
+    <item_options>on</item_options>
+    <item_sort>97</item_sort>
+  </row>
+  <row>
+    <id>135</id>
+    <item_id>portfolio_social_sharing</item_id>
+    <item_title>Social Sharing</item_title>
+    <item_desc>&amp;lt;h1 style=&amp;quot;color: #21759B;&amp;quot;&amp;gt;Social Sharing&amp;lt;/h1&amp;gt;</item_desc>
+    <item_type>textblock</item_type>
+    <item_options></item_options>
+    <item_sort>98</item_sort>
+  </row>
+  <row>
+    <id>136</id>
+    <item_id>aversis_portfolio_overview_socials_active</item_id>
+    <item_title>Show Social Sharing?</item_title>
+    <item_desc>Show the Social Sharing Block? (This overrules the 3 following settings if unchecked)</item_desc>
+    <item_type>checkbox</item_type>
+    <item_options>on</item_options>
+    <item_sort>99</item_sort>
+  </row>
+  <row>
+    <id>200</id>
+    <item_id>div_portfolio_socials_begin</item_id>
+    <item_title>div portfolio_socials_begin</item_title>
+    <item_desc>&amp;lt;div id=aversis_portfolio_socials_div&amp;gt;</item_desc>
+    <item_type>textblock</item_type>
+    <item_options></item_options>
+    <item_sort>100</item_sort>
+  </row>
+  <row>
+    <id>137</id>
+    <item_id>aversis_portfolio_overview_socials_twitter</item_id>
+    <item_title>Show Twitter Sharing?</item_title>
+    <item_desc>Display Twitter Button?</item_desc>
+    <item_type>checkbox</item_type>
+    <item_options>on</item_options>
+    <item_sort>101</item_sort>
+  </row>
+  <row>
+    <id>138</id>
+    <item_id>aversis_portfolio_overview_socials_google</item_id>
+    <item_title>Show Google+ Sharing?</item_title>
+    <item_desc>Show Google+ Button?</item_desc>
+    <item_type>checkbox</item_type>
+    <item_options>on</item_options>
+    <item_sort>102</item_sort>
+  </row>
+  <row>
+    <id>139</id>
+    <item_id>aversis_portfolio_overview_socials_pinterest</item_id>
+    <item_title>Show Pinterest Sharing?</item_title>
+    <item_desc>Display Pinterest button?</item_desc>
+    <item_type>checkbox</item_type>
+    <item_options>on</item_options>
+    <item_sort>103</item_sort>
+  </row>
+  <row>
+    <id>140</id>
+    <item_id>aversis_portfolio_overview_socials_facebook</item_id>
+    <item_title>Show Facebook Sharing?</item_title>
+    <item_desc>Show Facebook Button?</item_desc>
+    <item_type>checkbox</item_type>
+    <item_options>on</item_options>
+    <item_sort>104</item_sort>
+  </row>
+  <row>
+    <id>201</id>
+    <item_id>div_portfolio_socials_end</item_id>
+    <item_title>div portfolio_socials_end</item_title>
+    <item_desc>&amp;lt;/div&amp;gt;</item_desc>
+    <item_type>textblock</item_type>
+    <item_options></item_options>
+    <item_sort>105</item_sort>
+  </row>
+  <row>
+    <id>154</id>
+    <item_id>support</item_id>
+    <item_title>&amp;lt;div id=ot_support&amp;gt;Support &amp;amp; Help&amp;lt;/div&amp;gt;</item_title>
+    <item_desc></item_desc>
+    <item_type>heading</item_type>
+    <item_options></item_options>
+    <item_sort>106</item_sort>
+  </row>
+  <row>
+    <id>155</id>
+    <item_id>support_text</item_id>
+    <item_title>Support Text</item_title>
+    <item_desc>&amp;lt;p&amp;gt;If you face problems with the installation or customization of our product please do not hesitate to contact us via our support ticket sytem:&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;a href=&amp;quot;http://themepunch.ticksy.com&amp;quot; target=&amp;quot;_new&amp;quot;&amp;gt;http://themepunch.ticksy.com&amp;lt;/a&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;</item_desc>
+    <item_type>textblock</item_type>
+    <item_options></item_options>
+    <item_sort>107</item_sort>
+  </row>
+  <row>
+    <id>156</id>
+    <item_id>first_steps_after_activation</item_id>
+    <item_title>&amp;lt;div id=ot_steps&amp;gt;Steps after Activation&amp;lt;/div&amp;gt;</item_title>
+    <item_desc></item_desc>
+    <item_type>heading</item_type>
+    <item_options></item_options>
+    <item_sort>108</item_sort>
+  </row>
+  <row>
+    <id>157</id>
+    <item_id>steps</item_id>
+    <item_title>steps</item_title>
+    <item_desc>Yeah, you uploaded and activated our Averis Theme! Thanks and good work so far!&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;
+
+The following steps are necessary to get the Theme on the road for its first time:&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;
+
+&amp;lt;ol&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Set Permalinks:&amp;lt;/strong&amp;gt;&amp;lt;br&amp;gt;
+Please go to the corresponding page via the WP menu on the left side. It is &amp;quot;Settings&amp;quot; | &amp;quot;Permalinks&amp;quot;.&amp;lt;br&amp;gt;
+Just press the &amp;quot;Save Changes&amp;quot; button there. We prefilled the custom permalink setting already to give you the best permalink structure for readability and SEO possible.&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;
+&amp;lt;img src=&amp;quot;../wp-content/themes/averis/functions/option-tree/permalinks.jpg&amp;quot;&amp;gt;
+&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Import Example Content:&amp;lt;/strong&amp;gt;&amp;lt;br&amp;gt;
+If you like some example content to see how things are done please go to the WP menu &amp;quot;Tools&amp;quot; | &amp;quot;Import&amp;quot; and choose Wordpress.&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;
+&amp;lt;img src=&amp;quot;../wp-content/themes/averis/functions/option-tree/import1.jpg&amp;quot;&amp;gt;
+&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;
+You will be asked to install the WP Import plugin if you not have done already. Please do so.
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;
+&amp;lt;img src=&amp;quot;../wp-content/themes/averis/functions/option-tree/import2.jpg&amp;quot;&amp;gt;
+&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;Now import our Example data by choosing the &amp;quot;aversis_example.xml&amp;quot; we have put in the &amp;quot;democontent&amp;quot; folder of our theme (should be there in the folder you have of our unzipped theme on your harddrive). Important is to import the media files too (the featured images).
+&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;&amp;lt;img src=&amp;quot;../wp-content/themes/averis/functions/option-tree/import3.jpg&amp;quot;&amp;gt;
+&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Set Reading Pages:&amp;lt;/strong&amp;gt;&amp;lt;br&amp;gt;
+Please go to the corresponding page via the WP menu on the left side. It is &amp;quot;Settings&amp;quot; | &amp;quot;Reading&amp;quot;.&amp;lt;br&amp;gt;
+Choose &amp;quot;A static page&amp;quot; for frontpage display. After that you can choose our example &amp;quot;home&amp;quot; for frontpage and the &amp;quot;blog&amp;quot; page for blog (or the pages of your choice). Then press the &amp;quot;Save Changes&amp;quot; button there. &amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;
+&amp;lt;img src=&amp;quot;../wp-content/themes/averis/functions/option-tree/reading.jpg&amp;quot;&amp;gt;
+&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;
+Be sure that the pages you choose have the corresponding &amp;quot;&amp;lt;strong&amp;gt;page template&amp;lt;/strong&amp;gt;&amp;quot; (&amp;quot;home-page&amp;quot; and/or &amp;quot;blog&amp;quot;)
+&amp;lt;img src=&amp;quot;../wp-content/themes/averis/functions/option-tree/pagetemplate.jpg&amp;quot;&amp;gt;
+&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Set Menu Name:&amp;lt;/strong&amp;gt;&amp;lt;br&amp;gt;
+If you did not import our averis_example.xml (step 2) please go to the corresponding page via the WP menu on the left side. It is &amp;quot;Appearance&amp;quot; | &amp;quot;Menus&amp;quot;.&amp;lt;br&amp;gt;
+Rename your Menu to &amp;quot;Main&amp;quot; and press the &amp;quot;Save Changes&amp;quot; button there.&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;
+&amp;lt;img src=&amp;quot;../wp-content/themes/averis/functions/option-tree/menu.jpg&amp;quot;&amp;gt;
+&amp;lt;/li&amp;gt;
+&amp;lt;/ol&amp;gt;</item_desc>
+    <item_type>textblock</item_type>
+    <item_options></item_options>
+    <item_sort>109</item_sort>
+  </row>
+</wp_aversis_option_tree>

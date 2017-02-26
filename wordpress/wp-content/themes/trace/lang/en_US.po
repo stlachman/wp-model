@@ -1,0 +1,427 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Apex WordPress Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-02-14 14:58+0100\n"
+"PO-Revision-Date: 2012-02-14 14:59+0100\n"
+"Last-Translator: themepunch <info@themepunch>\n"
+"Language-Team: themepunch <info@themepunch.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: E:/WORK/HTML&WP/ApexWP\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: E:/WORK/HTML&WP/ApexWP\n"
+"X-Textdomain-Support: yes"
+
+#: archive.php:11
+#: category.php:11
+#: search.php:16
+#@ averis
+msgid "Read More"
+msgstr "Read More"
+
+#: functions/theme_widgets.php:928
+#@ averis
+msgid "Name *"
+msgstr "Name *"
+
+#: functions/theme_widgets.php:929
+#@ averis
+msgid "Email *"
+msgstr "Email *"
+
+#: comments.php:12
+#@ averis
+msgid "Website"
+msgstr "Website"
+
+#: functions/theme_widgets.php:930
+#@ averis
+msgid "Message *"
+msgstr "Message *"
+
+#: comments.php:14
+#@ averis
+msgid "Submit Comment"
+msgstr "Submit Comment"
+
+#: comments.php:15
+#@ averis
+msgid "You are logged in as"
+msgstr "You are logged in as"
+
+#: comments.php:16
+#@ averis
+msgid "Click here to"
+msgstr "Click here to"
+
+#: comments.php:17
+#@ averis
+msgid "Log out"
+msgstr "Log out"
+
+#: comments.php:38
+#@ averis
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "This post is password protected. Enter the password to view any comments."
+
+#: archive.php:10
+#: category.php:10
+#: comments.php:43
+#: index.php:20
+#: portfolio.php:23
+#: single.php:19
+#: single_portfolio.php:20
+#@ averis
+msgid "Comments"
+msgstr "Comments"
+
+#: comments.php:61
+#@ averis
+msgid "Older Comments "
+msgstr "Older Comments "
+
+#: comments.php:62
+#@ averis
+msgid "Newer Comments"
+msgstr "Newer Comments"
+
+#: comments.php:70
+#@ averis
+msgid "Reply To "
+msgstr "Reply To "
+
+#: forms/quickcontact.php:16
+#@ averis
+msgid "Address"
+msgstr "Address"
+
+#: functions/theme_widgets.php:932
+#@ averis
+msgid "Error! Please correct marked fields."
+msgstr "Error! Please correct marked fields."
+
+#: functions/theme_widgets.php:933
+#@ averis
+msgid "Message send successfully!"
+msgstr "Message send successfully!"
+
+#: functions/theme_widgets.php:934
+#@ averis
+msgid "Sending..."
+msgstr "Sending..."
+
+#: search.php:21
+#@ averis
+msgid "Hits For"
+msgstr "Hits For"
+
+#: functions/saloon_admin/saloon_admin.php:79
+#: functions/theme_portfolio_functions.php:36
+#: functions/theme_sidebars_functions.php:36
+#@ averis
+#@ default
+msgid "You do not have sufficient permissions to access this page."
+msgstr "You do not have sufficient permissions to access this page."
+
+#: functions/theme_post_comments.php:18
+#, php-format
+#@ averis
+msgid "%1$s"
+msgstr "%1$s"
+
+#: functions/theme_post_comments.php:18
+#: functions/theme_post_comments.php:36
+#@ averis
+msgid "(Edit)"
+msgstr "(Edit)"
+
+#: functions/theme_post_comments.php:36
+#@ averis
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: functions/theme_widgets.php:931
+#@ averis
+msgid "Send"
+msgstr "Send"
+
+#: functions/theme_post_customtypes.php:22
+#@ default
+msgid "Portfolio ''"
+msgstr ""
+
+#: forms/contact.php:11
+#@ averis
+msgid "Contact Form Email"
+msgstr "Contact Form Email"
+
+#: forms/contact.php:12
+#@ averis
+msgid "Contact Form Email from"
+msgstr "Contact Form Email from"
+
+#: comments.php:10
+#: forms/quickcontact.php:14
+#@ averis
+msgid "Name"
+msgstr "Name"
+
+#: comments.php:11
+#: forms/quickcontact.php:15
+#@ averis
+msgid "Email"
+msgstr "Email"
+
+#: comments.php:13
+#: forms/quickcontact.php:17
+#@ averis
+msgid "Message"
+msgstr "Message"
+
+#: forms/quickcontact.php:12
+#@ averis
+msgid "Quick Contact Form Email"
+msgstr "Quick Contact Form Email"
+
+#: forms/quickcontact.php:13
+#@ averis
+msgid "New Newsletter Subscription "
+msgstr "New Newsletter Subscription "
+
+#: functions/theme_functions.php:182
+#@ averis
+msgid "Reply"
+msgstr "Reply"
+
+#: functions/theme_functions.php:183
+#@ averis
+msgid "Log in to Reply"
+msgstr "Log in to Reply"
+
+#: archive.php:12
+#: category.php:12
+#: search.php:17
+#@ averis
+msgid "Share This"
+msgstr "Share This"
+
+#: archive.php:13
+#: category.php:13
+#: search.php:18
+#@ averis
+msgid "Archive"
+msgstr "Archive"
+
+#: archive.php:14
+#: category.php:14
+#: search.php:19
+#@ averis
+msgid "Tag Archive"
+msgstr "Tag Archive"
+
+#: archive.php:15
+#: category.php:15
+#: portfolio.php:19
+#: search.php:20
+#@ averis
+msgid "Category"
+msgstr "Category"
+
+#: archive.php:5
+#: category.php:5
+#: index.php:15
+#: portfolio.php:17
+#: single.php:14
+#: single_portfolio.php:15
+#@ averis
+msgid "Learn More"
+msgstr "Learn More"
+
+#: archive.php:6
+#: category.php:6
+#: index.php:16
+#: portfolio.php:18
+#: single.php:15
+#: single_portfolio.php:16
+#@ averis
+msgid "Launch Project"
+msgstr "Launch Project"
+
+#: archive.php:7
+#: category.php:7
+#: index.php:17
+#: portfolio.php:20
+#: single.php:16
+#: single_portfolio.php:17
+#@ averis
+msgid "by"
+msgstr "by"
+
+#: archive.php:8
+#: category.php:8
+#: index.php:18
+#: portfolio.php:21
+#: single.php:17
+#: single_portfolio.php:18
+#@ averis
+msgid "No Comments"
+msgstr "No Comments"
+
+#: archive.php:9
+#: category.php:9
+#: index.php:19
+#: portfolio.php:22
+#: single.php:18
+#: single_portfolio.php:19
+#@ averis
+msgid "1 Comment"
+msgstr "1 Comment"
+
+#: comments.php:70
+#@ averis
+msgid "Submit a Comment"
+msgstr "Submit a Comment"
+
+#: functions/option-tree/classes/class.admin.php:1517
+#@ default
+msgid "Options"
+msgstr ""
+
+#: functions/option-tree/classes/class.admin.php:1595
+#@ default
+msgid "Somebody"
+msgstr ""
+
+#: functions/option-tree/classes/class.admin.php:1596
+#@ default
+msgid "Theme Options"
+msgstr ""
+
+#: functions/option-tree/classes/class.admin.php:1596
+#@ default
+msgid "Settings"
+msgstr ""
+
+#: functions/option-tree/classes/class.admin.php:1598
+#, php-format
+#@ default
+msgid "Warning: %s is currently editing the %s."
+msgstr ""
+
+#: functions/option-tree/classes/class.admin.php:1698
+#@ option-tree
+msgid "Show Settings &amp; Docs"
+msgstr ""
+
+#: functions/option-tree/classes/class.admin.php:1701
+#@ option-tree
+msgid "Yes"
+msgstr ""
+
+#: functions/option-tree/front-end/options.php:18
+#: functions/option-tree/front-end/options.php:113
+#@ default
+msgid "Save All Changes"
+msgstr ""
+
+#: functions/option-tree/front-end/options.php:24
+#@ default
+msgid "New Layout"
+msgstr ""
+
+#: functions/option-tree/front-end/options.php:31
+#@ default
+msgid "Activate Layout"
+msgstr ""
+
+#: functions/option-tree/front-end/options.php:55
+#@ default
+msgid "Reload XML"
+msgstr ""
+
+#: functions/option-tree/front-end/options.php:112
+#@ default
+msgid "Reset Options"
+msgstr ""
+
+#: functions/option-tree/front-end/settings.php:214
+#@ default
+msgid "Import XML"
+msgstr ""
+
+#: functions/option-tree/front-end/settings.php:231
+#@ default
+msgid "Import Data"
+msgstr ""
+
+#: functions/option-tree/front-end/settings.php:248
+#@ default
+msgid "Import Layouts"
+msgstr ""
+
+#: functions/theme_breadcrumbs.php:16
+#@ averis
+msgid "Archive by category"
+msgstr "Archive by category"
+
+#: functions/theme_breadcrumbs.php:17
+#@ averis
+msgid "Search results for"
+msgstr "Search results for"
+
+#: functions/theme_breadcrumbs.php:18
+#@ averis
+msgid "Posts tagged"
+msgstr "Posts tagged"
+
+#: functions/theme_breadcrumbs.php:19
+#@ averis
+msgid "Articles posted by"
+msgstr "Articles posted by"
+
+#: functions/theme_breadcrumbs.php:20
+#@ averis
+msgid "Error 404"
+msgstr "Error 404"
+
+#: functions/theme_breadcrumbs.php:126
+#: functions/theme_pagination.php:10
+#: template_parts/miniportfolio.php:9
+#@ default
+#@ averis
+msgid "Page"
+msgstr "Page"
+
+#: functions/theme_pagination.php:11
+#@ averis
+msgid "of"
+msgstr "of"
+
+#: functions/theme_post_like.php:129
+#@ averis
+msgid "like it"
+msgstr "like it"
+
+#: functions/theme_post_like.php:146
+#@ averis
+msgid "dislike it"
+msgstr "dislike it"
+
+#: search.php:22
+#@ averis
+msgid "Continue"
+msgstr "Continue"
+
+#: single.php:20
+#: single_portfolio.php:21
+#@ averis
+msgid "Sorry but you voted already!"
+msgstr "Sorry but you voted already!"
+

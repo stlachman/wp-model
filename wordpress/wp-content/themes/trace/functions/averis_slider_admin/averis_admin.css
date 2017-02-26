@@ -1,0 +1,197 @@
+#general_options {
+	width: 900px; 	
+}
+
+.saloonbannerwindows.postbox	{	
+	margin-bottom:40px;							
+	background:url("../../images/other/decor_inside_white.png") repeat;
+	background-color:#b5b5b5;
+}
+
+.banner_option{
+	margin-bottom: 10px;
+}
+
+.banner_option label{
+	line-height: 22px;	
+}
+
+.banner_option input{
+	color:#5b5b5b;
+}
+
+.slide_li {
+	background:url("../../images/other/decor_inside.png") repeat;
+	background-color: #dfdfdf;
+	height:auto;
+	width:350px;
+	padding:20px;
+	border: 1px solid;
+	float:left;
+	margin-right:10px;
+	margin-bottom:15px;
+	color: #464646;
+	border-color: #DFDFDF;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+	
+}
+
+.cssparts	{
+	padding:5px;
+	background:url("../../images/other/decor_inside.png") repeat;	
+	background-color:#b1b1b1;
+	border:1px solid #a9a9a9;
+}
+
+.slide_options{
+	margin-bottom:20px;
+}
+
+.caption_li {
+	border: 1px solid #bbb;
+	background: #c6c6c6;
+	padding:10px;
+	clear: both;
+	overflow: auto;
+	border-color: 1px solid #828282;
+	border-top:1px dotted #828282;
+	-webkit-border-radius: 0px 0px 3px 3px;
+	border-radius: 0px 0px 3px 3px;	
+	margin-top:20px;
+}
+
+
+
+.caption_li input,.caption_li select{
+	width: 100%;
+	color:#5b5b5b;
+}
+
+
+.css_extension,
+.css_extension_mo,
+.css_extension_no,
+.css_extension_pa {
+	width:100%;
+	height:100px;
+	resize:vertical;
+	color:#5b5b5b;
+}
+
+input[type=radio]{
+	margin-top: 5px;
+}
+
+/***********************************
+	HERE THE BIG EDITOR SETTIGNS 
+************************************/	
+.bordered	{	background: #dfdfdf;
+				width:100%;	
+				padding:10px;
+				margin-top:5px;
+				color: #464646;				
+				-webkit-border-radius: 0px 0px 3px 3px;
+				border-radius: 0px 0px 3px 3px;	
+				height:120px;
+				border-color: 1px solid #c6c6c6;
+				border-top:1px dotted #c6c6c6;
+		}
+
+.slideimageholder				{	position:relative; overflow:hidden; cursor:pointer; }
+
+.big_slideeditor				{	z-index:500;top:0px; left:0px; position:fixed; overflow:hidden;  background:rgba(0,0,0,0.9);}
+.big_slideeditor .slide_demo	{   position:relative; margin-top:70px; padding:70px 50px; background:#fff; margin-left:auto; margin-right:auto; cursor:default}
+.dragcaptions					{	cursor:move}
+
+.tools-captioneditor			{	right:0px;bottom:0px; position:absolute;z-index:1000}
+.tools-info						{ 	left:50px; bottom:20px; position:absolute;z-index:1000; color:#999; font-size:12px; font-family:Arial;}
+
+#ok-captioneditor				{	float:right; background:url("../../images/admin_icons/ok.png") no-repeat; height:29px; 
+									 margin-right:20px;margin-bottom:17px; margin-top:10px; padding-left:50px; padding-top:10px; cursor:pointer;} 
+
+#grid-captioneditor				{	float:right; background:url("../../images/admin_icons/grid_.png") no-repeat;  height:29px; 
+									margin-right:60px; margin-bottom:17px;margin-top:10px; padding-left:50px; padding-top:10px; cursor:pointer;} 
+
+#cancel-captioneditor			{	float:right; background:url("../../images/admin_icons/cancel.png") no-repeat;  height:29px; 
+									 margin-right:50px; margin-bottom:17px;margin-top:10px; padding-left:50px; padding-top:10px; cursor:pointer;} 
+									 
+#icon-captioneditor				{	float:right; background:url("../../images/admin_icons/arrows.png") no-repeat;  height:38px; min-width:37px; padding-left:50px; padding-top:10px;
+									 position:absolute; top:8px; left:50px; font-size:20px; color:#333; margin-top:10px;} 									 
+
+.openclose						{	cursor:pointer; float:right; background:url("../../images/admin_icons/openclose.png") no-repeat 0px bottom;  height:19px; min-width:21px;  margin-right:0px; 
+									-moz-opacity:0.5; filter:alpha(opacity=50); opacity:0.5;
+									-webkit-transition: all 0.3s ease-out; -moz-transition: all 0.3s ease-out; -o-transition: all 0.3s ease-out; -ms-transition: all 1s ease-in-out;
+								}
+
+.openclose:hover				{	-moz-opacity:1; filter:alpha(opacity=100); opacity:1;	}
+							
+.openclose.selected				{	background-position:top; }
+
+#grid-slide-demo				{	background:url("../../images/admin_icons/grid3.png") repeat; width:100%; height:100%; position:absolute; top:70px; left:50px; z-index:4;}
+
+
+#ok-captioneditor:hover,
+#grid-captioneditor:hover,
+#grid-captioneditor.selected,
+#cancel-captioneditor:hover		{	color:#ff0000; background-position:left bottom;}
+
+
+
+/*************************************************
+	THE SMALL ICONS AROUND THE BANNER EDITOR 
+***************************************************/
+.icon-caption		{	background:url("../../images/admin_icons/caption.png") no-repeat; min-width:39px; height:32px; float:left; 
+						margin-right:10px; margin-bottom:10px; padding-left:45px; padding-top:7px; cursor:pointer;}
+
+.remove_caption		{	background:url("../../images/admin_icons/caption_remove.png") no-repeat; width:100px; height:32px; 
+						 padding-left:45px; padding-top:7px; cursor:pointer;}
+
+.add_caption, .add_image		{	float:left; background:url("../../images/admin_icons/caption_add.png") no-repeat; min-width:39px; height:32px; 
+						margin-right:10px; margin-bottom:10px; padding-left:45px; padding-top:7px; cursor:pointer;
+						margin-top:20px;
+						
+					}
+
+.remove_slide		{	float:right; background:url("../../images/admin_icons/slide_remove.png") no-repeat right 0px; min-width:39px; height:32px; 
+						margin-bottom:10px;padding-right:45px; padding-top:7px; cursor:pointer;
+						margin-top:20px;
+					}
+						
+.add_slide			{	background:url("../../images/admin_icons/slide_add.png")  no-repeat left 0px; min-width:39px; height:32px; 
+						margin-bottom:10px;padding-left:45px; padding-top:7px; cursor:pointer;
+						float:right;margin-right:20px;
+					}
+					
+.upup				{	background:url("../../images/admin_icons/updown.png") no-repeat right top; width:19px; height:10px; 
+						  cursor:pointer;}					
+						  
+.downdown			{	background:url("../../images/admin_icons/updown.png") no-repeat right bottom; width:19px; height:10px; 
+						  cursor:pointer;}											
+
+.upup:hover			{	background-position:left top}
+.downdown:hover		{	background-position:left bottom}
+
+
+
+
+
+
+
+.one_half { width: 48%; }
+.one_third { width: 28%; margin-right: 3.1%; margin-bottom: 10px; float: left; }}
+.two_third { width: 65.33%; }
+.one_fourth { width: 20.6%; }
+.one_fifth { width: 16.8%; }
+.one_sixth { width: 13.33%; }
+.one_half, .two_third, .one_fourth, .one_fifth, .one_sixth { margin-right: 4%; margin-bottom: 10px; float: left; }
+
+.one_fourth.bordered {margin-right:2%; margin-bottom: 20px; float: left; }
+.one_half.bordered { width:45.6%;}
+.lastcolumn { margin-right: 0!important; clear: right; }
+
+.custom_preview_image{
+	max-width:100%;
+}
+
+

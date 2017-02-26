@@ -1,0 +1,427 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Valiano v1 (WP 3.3)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2012-03-26 12:32+0000\n"
+"Last-Translator: admin <info@themepunch.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: Hungarian\n"
+"X-Poedit-Country: HUNGARY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: functions/theme_widgets.php:928
+#@ averis
+msgid "Name *"
+msgstr "Név"
+
+#: functions/theme_widgets.php:929
+#@ averis
+msgid "Email *"
+msgstr "Email"
+
+#: comments.php:12
+#@ averis
+msgid "Website"
+msgstr "Weboldal"
+
+#: functions/theme_widgets.php:930
+#@ averis
+msgid "Message *"
+msgstr "Üzenet"
+
+#: comments.php:14
+#@ averis
+msgid "Submit Comment"
+msgstr "Hozzászólás Elfogadva"
+
+#: comments.php:15
+#@ averis
+msgid "You are logged in as"
+msgstr "Bejelentkezett Felhasználó"
+
+#: comments.php:16
+#@ averis
+msgid "Click here to"
+msgstr "Clikk ide"
+
+#: comments.php:17
+#@ averis
+msgid "Log out"
+msgstr "Kijelentkezés"
+
+#: comments.php:38
+#@ averis
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "Ez a post jelszó védett. Adja meg a jelszót hogy láthasa a többi üzenetet."
+
+#: archive.php:10
+#: category.php:10
+#: comments.php:43
+#: index.php:20
+#: portfolio.php:23
+#: single.php:19
+#: single_portfolio.php:20
+#@ averis
+msgid "Comments"
+msgstr "Hozzászólások"
+
+#: comments.php:61
+#@ averis
+msgid "Older Comments "
+msgstr "Régebbi Hozzászólások"
+
+#: comments.php:62
+#@ averis
+msgid "Newer Comments"
+msgstr "Uj hozzászólások"
+
+#: comments.php:70
+#@ averis
+msgid "Reply To "
+msgstr "Válasz"
+
+#: forms/quickcontact.php:16
+#@ averis
+msgid "Address"
+msgstr "Cím"
+
+#: functions/theme_widgets.php:932
+#@ averis
+msgid "Error! Please correct marked fields."
+msgstr "Hiba! Töltse ki a megjelölt Mezöket."
+
+#: functions/theme_widgets.php:933
+#@ averis
+msgid "Message send successfully!"
+msgstr "Üzenet sikeresen elküldve."
+
+#: functions/theme_widgets.php:934
+#@ averis
+msgid "Sending..."
+msgstr "Küldés..."
+
+#: forms/contact.php:11
+#@ averis
+msgid "Contact Form Email"
+msgstr "Kapcsolati Email Form"
+
+#: forms/contact.php:12
+#@ averis
+msgid "Contact Form Email from"
+msgstr "Kapcsolati Form Email Form "
+
+#: comments.php:10
+#: forms/quickcontact.php:14
+#@ averis
+msgid "Name"
+msgstr "Név"
+
+#: comments.php:11
+#: forms/quickcontact.php:15
+#@ averis
+msgid "Email"
+msgstr "Email"
+
+#: comments.php:13
+#: forms/quickcontact.php:17
+#@ averis
+msgid "Message"
+msgstr "Üzenet"
+
+#: forms/quickcontact.php:12
+#@ averis
+msgid "Quick Contact Form Email"
+msgstr "Gyorcs Kapscolati Email Form"
+
+#: forms/quickcontact.php:13
+#@ averis
+msgid "New Newsletter Subscription "
+msgstr "Uj hírlevél Feliratkozás"
+
+#: functions/saloon_admin/saloon_admin.php:79
+#: functions/theme_portfolio_functions.php:36
+#: functions/theme_sidebars_functions.php:36
+#@ averis
+#@ default
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Nincs elegendö engedélye az oldal hozzáféréséhez."
+
+#: functions/theme_functions.php:182
+#@ averis
+msgid "Reply"
+msgstr "Válasz"
+
+#: functions/theme_functions.php:183
+#@ averis
+msgid "Log in to Reply"
+msgstr "Bejelentkezés a válaszhoz"
+
+#: functions/theme_post_comments.php:18
+#, php-format
+#@ averis
+msgid "%1$s"
+msgstr ""
+
+#: functions/theme_post_comments.php:18
+#: functions/theme_post_comments.php:36
+#@ averis
+msgid "(Edit)"
+msgstr ""
+
+#: functions/theme_post_comments.php:36
+#@ averis
+msgid "Pingback:"
+msgstr ""
+
+#: functions/theme_post_customtypes.php:22
+#@ default
+msgid "Portfolio ''"
+msgstr ""
+
+#: functions/theme_widgets.php:931
+#@ averis
+msgid "Send"
+msgstr "Küldés"
+
+#: archive.php:11
+#: category.php:11
+#: search.php:16
+#@ averis
+msgid "Read More"
+msgstr "További info"
+
+#: archive.php:12
+#: category.php:12
+#: search.php:17
+#@ averis
+msgid "Share This"
+msgstr "Megosztás"
+
+#: archive.php:13
+#: category.php:13
+#: search.php:18
+#@ averis
+msgid "Archive"
+msgstr "Archívum"
+
+#: archive.php:14
+#: category.php:14
+#: search.php:19
+#@ averis
+msgid "Tag Archive"
+msgstr "Archívum"
+
+#: archive.php:15
+#: category.php:15
+#: portfolio.php:19
+#: search.php:20
+#@ averis
+msgid "Category"
+msgstr "Kategória"
+
+#: search.php:21
+#@ averis
+msgid "Hits For"
+msgstr "Találatok"
+
+#: archive.php:5
+#: category.php:5
+#: index.php:15
+#: portfolio.php:17
+#: single.php:14
+#: single_portfolio.php:15
+#@ averis
+msgid "Learn More"
+msgstr "További Infó"
+
+#: archive.php:6
+#: category.php:6
+#: index.php:16
+#: portfolio.php:18
+#: single.php:15
+#: single_portfolio.php:16
+#@ averis
+msgid "Launch Project"
+msgstr "Projekt Indítása"
+
+#: archive.php:7
+#: category.php:7
+#: index.php:17
+#: portfolio.php:20
+#: single.php:16
+#: single_portfolio.php:17
+#@ averis
+msgid "by"
+msgstr ""
+
+#: archive.php:8
+#: category.php:8
+#: index.php:18
+#: portfolio.php:21
+#: single.php:17
+#: single_portfolio.php:18
+#@ averis
+msgid "No Comments"
+msgstr "Nincs Hozzászólás"
+
+#: archive.php:9
+#: category.php:9
+#: index.php:19
+#: portfolio.php:22
+#: single.php:18
+#: single_portfolio.php:19
+#@ averis
+msgid "1 Comment"
+msgstr "1 Hozzászólás"
+
+#: comments.php:70
+#@ averis
+msgid "Submit a Comment"
+msgstr "Hozzászólás elfogadása"
+
+#: functions/option-tree/classes/class.admin.php:1517
+#@ default
+msgid "Options"
+msgstr ""
+
+#: functions/option-tree/classes/class.admin.php:1595
+#@ default
+msgid "Somebody"
+msgstr ""
+
+#: functions/option-tree/classes/class.admin.php:1596
+#@ default
+msgid "Theme Options"
+msgstr ""
+
+#: functions/option-tree/classes/class.admin.php:1596
+#@ default
+msgid "Settings"
+msgstr ""
+
+#: functions/option-tree/classes/class.admin.php:1598
+#, php-format
+#@ default
+msgid "Warning: %s is currently editing the %s."
+msgstr ""
+
+#: functions/option-tree/classes/class.admin.php:1698
+#@ option-tree
+msgid "Show Settings &amp; Docs"
+msgstr ""
+
+#: functions/option-tree/classes/class.admin.php:1701
+#@ option-tree
+msgid "Yes"
+msgstr ""
+
+#: functions/option-tree/front-end/options.php:18
+#: functions/option-tree/front-end/options.php:113
+#@ default
+msgid "Save All Changes"
+msgstr ""
+
+#: functions/option-tree/front-end/options.php:24
+#@ default
+msgid "New Layout"
+msgstr ""
+
+#: functions/option-tree/front-end/options.php:31
+#@ default
+msgid "Activate Layout"
+msgstr ""
+
+#: functions/option-tree/front-end/options.php:55
+#@ default
+msgid "Reload XML"
+msgstr ""
+
+#: functions/option-tree/front-end/options.php:112
+#@ default
+msgid "Reset Options"
+msgstr ""
+
+#: functions/option-tree/front-end/settings.php:214
+#@ default
+msgid "Import XML"
+msgstr ""
+
+#: functions/option-tree/front-end/settings.php:231
+#@ default
+msgid "Import Data"
+msgstr ""
+
+#: functions/option-tree/front-end/settings.php:248
+#@ default
+msgid "Import Layouts"
+msgstr ""
+
+#: functions/theme_breadcrumbs.php:16
+#@ averis
+msgid "Archive by category"
+msgstr "Categória szerint Archivált"
+
+#: functions/theme_breadcrumbs.php:17
+#@ averis
+msgid "Search results for"
+msgstr "Keresés eredménye"
+
+#: functions/theme_breadcrumbs.php:18
+#@ averis
+msgid "Posts tagged"
+msgstr "Bejegyzések"
+
+#: functions/theme_breadcrumbs.php:19
+#@ averis
+msgid "Articles posted by"
+msgstr "Cikkeket írta:"
+
+#: functions/theme_breadcrumbs.php:20
+#@ averis
+msgid "Error 404"
+msgstr "404 Hiba"
+
+#: functions/theme_breadcrumbs.php:126
+#: functions/theme_pagination.php:10
+#: template_parts/miniportfolio.php:9
+#@ default
+#@ averis
+msgid "Page"
+msgstr "Oldal"
+
+#: functions/theme_pagination.php:11
+#@ averis
+msgid "of"
+msgstr "a"
+
+#: functions/theme_post_like.php:129
+#@ averis
+msgid "like it"
+msgstr "Szeretem"
+
+#: functions/theme_post_like.php:146
+#@ averis
+msgid "dislike it"
+msgstr "Nem Szeretem"
+
+#: search.php:22
+#@ averis
+msgid "Continue"
+msgstr "Tovább"
+
+#: single.php:20
+#: single_portfolio.php:21
+#@ averis
+msgid "Sorry but you voted already!"
+msgstr "Sajnálom, már leadta a szavazatát !"
+
