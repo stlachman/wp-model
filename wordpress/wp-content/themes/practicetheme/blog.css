@@ -1,5 +1,5 @@
 body {
- font-family: Georgia, "Times New Roman", Times, serif;
+ font-family: "Oxygen", serif;
  color: #555;
  background: #E7E3E5;
 }
@@ -11,7 +11,7 @@ h4, .h4,
 h5, .h5,
 h6, .h6 {
  margin-top: 0;
- font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+ font-family: "Oxygen", sans-serif;
  font-weight: normal;
  color: #333;
 }
@@ -33,7 +33,7 @@ h6, .h6 {
 */
 .b-header {
     background: #718286;
-    padding: 20px 15px;
+    padding: 20px 15px 90px 15px;
 }
 
 .blog-masthead {
@@ -53,6 +53,23 @@ h6, .h6 {
  color: #B08F65;
  text-decoration: none;
 }
+
+   .binput {
+  display: block;
+  margin: 0;
+  width: 100%;
+  font-family: "Oxygen", sans-serif;
+  font-size: 18px;
+  padding: 10px;
+  border: solid 1px #fff;
+  box-shadow: inset 1px 1px 2px 0 #707070;
+  transition: box-shadow 0.3s;
+}
+
+   .binput:focus {
+     box-shadow: inset 1px 1px 2px 0 #c9c9c9;
+ }
+
 
 /* Active state gets a caret at the bottom */
 /*.blog-nav .active {
