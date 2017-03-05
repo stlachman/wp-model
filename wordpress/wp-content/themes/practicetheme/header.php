@@ -20,11 +20,11 @@
 </head>
 
 <body>
-
+  <header class="b-header">
 	<div class="blog-masthead">
 		<div class="container">
 			<nav class="blog-nav">
-				<a class="blog-nav-item active" href="#">Home</a>
+				<a class="blog-nav-item" href="#">Home</a>
 				<?php wp_list_pages( '&title_li='); ?>
 			</nav>
 		</div>
@@ -36,3 +36,4 @@
 	<h1 class="blog-title"><a href="<?php bloginfo('wpurl');?>"><?php echo get_bloginfo( 'name' ); ?></a></h1>
 	<p class="lead blog-description"><?php echo get_bloginfo( 'description' ); ?></p>
 </div>
+</header>
