@@ -74,8 +74,8 @@ h6, .h6 {
 /* Active state gets a caret at the bottom */
 /*.blog-nav .active {
  color: #fff;
-}
-.blog-nav .active:after {
+} */
+/*.blog-nav {
  position: absolute;
  bottom: 0;
  left: 50%;
@@ -130,6 +130,7 @@ h6, .h6 {
 }
 
 .blog-nav li a:hover {
+    transition: ease 0.5s all;
     color: #B08F65;
     text-decoration: none;
 }
